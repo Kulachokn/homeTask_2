@@ -1,0 +1,1 @@
+{"version":3,"sources":["Layout.css"],"names":[],"mappings":"AAAA,QACI,gBAAiB,CACjB,gBAAiB,CACjB,iBAAkB,CAClB,iBAAkB,CAClB,kBACJ","file":"main.60b4cb49.chunk.css","sourcesContent":[".Layout {\n    max-width: 1170px;\n    margin-left: auto;\n    margin-right: auto;\n    padding-left: 12px;\n    padding-right: 12px;\n}"]}
